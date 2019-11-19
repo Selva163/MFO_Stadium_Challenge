@@ -39,15 +39,25 @@ Problem Solved Status: Optimal
 Matches and stadiums
 
 (6, 2) 3
+
 (6, 1) 2
+
 (7, 6) 3
+
 (4, 3) 3
+
 (4, 6) 2
+
 (3, 1) 2
+
 (5, 3) 2
+
 (7, 5) 1
+
 (7, 3) 3
+
 (4, 2) 1
+
 (1, 4) 3
 
 Objective maximized: 163.0
