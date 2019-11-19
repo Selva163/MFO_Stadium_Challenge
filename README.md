@@ -2,7 +2,7 @@
 
 Objective is to allocate stadiums for each of the matches for the given constraints
 
-following are the inputs we may need to adjust as per our requirements ( from line 5 to line 20 )
+following are the inputs we may need to adjust as per our requirements ( from line 5 to line 20 in MFO_Stadium_Challenge.py file)
 
 #number of teams
 
